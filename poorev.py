@@ -1549,6 +1549,7 @@ git status --> current status of Repository
 
 
 
+git remote add origin https://github.com/junaid238/kp3pm.git
 
 
 
